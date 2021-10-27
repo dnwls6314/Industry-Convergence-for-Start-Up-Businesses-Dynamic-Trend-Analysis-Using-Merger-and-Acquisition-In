@@ -15,3 +15,7 @@ convergence, industry convergence, start-ups, merger and acquisition, Crunchbase
 
 ### Main method
 Network analysis, keyword analysis, visualization via Gephi
+
+---
+
+published in the Early Access area on IEEE Xplore (https://ieeexplore.ieee.org/document/9469215)
